@@ -1,7 +1,4 @@
-## Contributor Agreement
-
-## Individual Contributor Non-Exclusive License Agreement
-## (including the Traditional Patent License OPTION)
+## CoopCare Individual Contributor License Agreement
 
 Thank you for your interest in contributing to CoopCare, maintained by slowtec GmbH, Ich und Du Pflege GmbH and Michael Kamphausen ("We" or "Us").
 
