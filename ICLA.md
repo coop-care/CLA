@@ -18,7 +18,7 @@ If You are an employee and have created the Contribution as part of your employm
 
 **"Submit"** means any act by which a Contribution is transferred to Us by You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
 
-**"Documentation"** means any non-software portion of a Contribution.
+**"Documentation"** or **"Media"** means any non-software portion of a Contribution.
 
 ### 2. License grant
 
@@ -49,9 +49,9 @@ You reserve the right to revoke the patent license stated in section 3.1 if We m
 
 We agree to (sub)license the Contribution or any Materials containing, based on or derived from your Contribution under the terms of any licenses the Free Software Foundation classifies as Free Software License and which are approved by the Open Source Initiative as Open Source licenses.
 
-In addition, We may use the following licenses for Documentation in the Contribution: ____________________ (including any right to adopt any future version of a license).
+In addition, We may use the following licenses for Documentation or Media in the Contribution: GNU Free Documentation License, FreeBSD Documentation License, Creative Commons Attribution 4.0 (CC BY 4.0), Creative Commons Attribution-Sharealike 4.0 (CC BY-SA 4.0) and CC0 1.0 Universal (including any right to adopt any future version of a license).
 
-We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses..
+We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses.
 
 ### 5. Disclaimer
 
