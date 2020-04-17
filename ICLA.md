@@ -87,20 +87,24 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 5. AND SECTION 6. CANNO
 
 ### You
 
-<style type="text/css">.underline {width:100%; border-bottom: 1px solid lightgray}</style>
+<style type="text/css">
+table {width:100%}
+.head {width:25%; text-align: right}
+.underline {width:75%; border-bottom: 1px solid lightgray}
+</style>
 
-<table>
-<tbody><tr><td class="head">Date:</td><td class="underline"></td></tr>
-<tr><td class="head">Name:</td><td class="underline"></td></tr>
-<tr><td class="head">Title:</td><td class="underline"></td></tr>
+<table><tbody>
+<tr><td class="head">Organization Name:</td><td class="underline"></td></tr>
+<tr><td class="head">Signee Name:</td><td class="underline"></td></tr>
+<tr><td class="head">Signee Title:</td><td class="underline"></td></tr>
 <tr><td class="head">Address:</td><td class="underline"></td></tr>
+<tr><td class="head">Date and Signature:</td><td class="underline"></td></tr>
 </tbody></table>
 
 ### Us
 
-<table>
-<tbody><tr><td class="head">Date:</td><td class="underline"></td></tr>
-<tr><td class="head">Name:</td><td class="underline"></td></tr>
-<tr><td class="head">Title:</td><td class="underline"></td></tr>
+<table><tbody>
+<tr><td class="head">Signee Name:</td><td class="underline"></td></tr>
 <tr><td class="head">Address:</td><td class="underline"></td></tr>
+<tr><td class="head">Date and Signature:</td><td class="underline"></td></tr>
 </tbody></table>
