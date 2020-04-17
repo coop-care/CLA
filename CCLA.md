@@ -8,19 +8,19 @@ The purpose of this contributor agreement ("Agreement") is to clarify and docume
 If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the Entity version of this document. If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at cla@coopcare.de
 
 ### 1. Definitions
-**"You"** means the individual Copyright owner who Submits a Contribution to Us.
+**"You"** means any Legal Entity on behalf of whom a Contribution has been received by Us.
 
 **"Legal Entity"** means an entity that is not a natural person.
 
 **"Affiliate"** means any other Legal Entity that controls, is controlled by, or under common control with that Legal Entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such Legal Entity, whether by contract or otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding shares or securities that vote to elect the management or other persons who direct such Legal Entity or (iii) beneficial ownership of such entity.
 
-**"Contribution"** means any original work of authorship, including any original modifications or additions to an existing work of authorship, Submitted by You to Us, in which You own the Copyright. 
+**"Contribution"** means any original work of authorship, including any original modifications or additions to an existing work of authorship, Submitted by You or on behalf of You to Us, in which You or Your Affiliates own the Copyright. 
 
 **"Copyright"** means all rights protecting works of authorship, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence. 
 
 **"Material"** means the software or documentation made available by Us to third parties. When this Agreement covers more than one software project, the Material means the software or documentation to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
 
-**"Submit"** means any act by which a Contribution is transferred to Us by You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
+**"Submit"** means any act by which a Contribution is transferred to Us by You or on behalf of You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
 
 **"Documentation"** or **"Media"** means any non-software portion of a Contribution.
 
@@ -43,7 +43,7 @@ Moral Rights remain unaffected to the extent they are recognized and not waivabl
 
 #### 3.1 Patent license
 
-Subject to the terms and conditions of this Agreement You hereby grant to Us and to recipients of Materials distributed by Us a worldwide, royalty-free, non-exclusive, perpetual and irrevocable (except as stated in Section 3.2) patent license, with the right to transfer an unlimited number of non-exclusive licenses or to grant sublicenses to third parties, to make, have made, use, sell, offer for sale, import and otherwise transfer the Contribution and the Contribution in combination with any Material (and portions of such combination). This license applies to all patents owned or controlled by You, whether already acquired or hereafter acquired, that would be infringed by making, having made, using, selling, offering for sale, importing or otherwise transferring of Your Contribution(s) alone or by combination of Your Contribution(s) with any Material.
+Subject to the terms and conditions of this Agreement You hereby grant to Us and to recipients of Materials distributed by Us a worldwide, royalty-free, non-exclusive, perpetual and irrevocable (except as stated in Section 3.2) patent license, with the right to transfer an unlimited number of non-exclusive licenses or to grant sublicenses to third parties, to make, have made, use, sell, offer for sale, import and otherwise transfer the Contribution and the Contribution in combination with any Material (and portions of such combination). This license applies to all patents owned or controlled by You or Your Affiliates, whether already acquired or hereafter acquired, that would be infringed by making, having made, using, selling, offering for sale, importing or otherwise transferring of Your Contribution(s) alone or by combination of Your Contribution(s) with any Material.
 
 #### 3.2 Revocation of patent license
 
@@ -55,7 +55,7 @@ We agree to (sub)license the Contribution or any Materials containing, based on 
 
 In addition, We may use the following licenses for Documentation or Media in the Contribution: GNU Free Documentation License, FreeBSD Documentation License, Creative Commons Attribution 4.0 (CC BY 4.0), Creative Commons Attribution-Sharealike 4.0 (CC BY-SA 4.0) and CC0 1.0 Universal (including any right to adopt any future version of a license).
 
-We agree to license patents owned or controlled by You only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses..
+We agree to license patents owned or controlled by You or Your Affiliates only to the extent necessary to (sub)license Your Contribution(s) and the combination of Your Contribution(s) with the Material under the terms of any licenses the Free Software Foundation classifies as Free Software licenses and which are approved by the Open Source Initiative as Open Source licenses.
 
 ### 5. Disclaimer
 
