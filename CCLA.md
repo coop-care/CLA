@@ -91,23 +91,17 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 5. AND SECTION 6. CANNO
 
 ### You
 
-<style type="text/css">
-table {width:100%}
-.head {width:25%; text-align: right}
-.underline {width:75%; border-bottom: 1px solid lightgray}
-</style>
-
-<table><tbody>
-<tr><td class="head">Name:</td><td class="underline"></td></tr>
-<tr><td class="head">GitHub Username:</td><td class="underline"></td></tr>
-<tr><td class="head">Address:</td><td class="underline"></td></tr>
-<tr><td class="head">Date and Signature:</td><td class="underline"></td></tr>
+<table style="width: 100%"><tbody>
+<tr><td style="text-align: right; width: 28%">Name:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
+<tr><td style="text-align: right">GitHub Username:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
+<tr><td style="text-align: right">Address:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
+<tr><td style="text-align: right">Date and Signature:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
 </tbody></table>
 
 ### Us
 
-<table><tbody>
-<tr><td class="head">Signee Name:</td><td class="underline"></td></tr>
-<tr><td class="head">Address:</td><td class="underline"></td></tr>
-<tr><td class="head">Date and Signature:</td><td class="underline"></td></tr>
+<table style="width: 100%"><tbody>
+<tr><td style="text-align: right; width: 28%">Signee Name:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
+<tr><td style="text-align: right">Address:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
+<tr><td style="text-align: right">Date and Signature:</td><td style="border-bottom: 1px solid lightgray"></td></tr>
 </tbody></table>
